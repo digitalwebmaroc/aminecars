@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/promises/src/Promise.php</b> on line <b>9</b><br>

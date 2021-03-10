@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Interface 'Psr\Http\Message\StreamInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/psr7/src/Stream.php</b> on line <b>11</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'voku\helper\AbstractDomParser' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/HtmlDomParser.php</b> on line <b>34</b><br>

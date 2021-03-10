@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Interface 'GuzzleHttp\Cookie\CookieJarInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php</b> on line <b>10</b><br>

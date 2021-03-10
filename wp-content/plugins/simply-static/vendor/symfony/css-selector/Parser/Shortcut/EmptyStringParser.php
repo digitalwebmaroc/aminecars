@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Interface 'Symfony\Component\CssSelector\Parser\ParserInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php</b> on line <b>32</b><br>

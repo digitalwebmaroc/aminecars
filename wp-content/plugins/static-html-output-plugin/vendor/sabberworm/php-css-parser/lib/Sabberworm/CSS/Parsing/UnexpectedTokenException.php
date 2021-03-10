@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'Sabberworm\CSS\Parsing\SourceException' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/sabberworm/php-css-parser/lib/Sabberworm/CSS/Parsing/UnexpectedTokenException.php</b> on line <b>8</b><br>

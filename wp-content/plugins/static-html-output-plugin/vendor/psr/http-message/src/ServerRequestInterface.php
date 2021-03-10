@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Interface 'Psr\Http\Message\RequestInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/psr/http-message/src/ServerRequestInterface.php</b> on line <b>43</b><br>
