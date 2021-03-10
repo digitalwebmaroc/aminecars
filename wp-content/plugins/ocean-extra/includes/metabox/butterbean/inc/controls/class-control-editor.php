@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'OceanWP_ButterBean_Control' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/ocean-extra/includes/metabox/butterbean/inc/controls/class-control-editor.php</b> on line <b>18</b><br>

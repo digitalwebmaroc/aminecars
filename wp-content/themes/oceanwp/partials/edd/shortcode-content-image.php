@@ -1,3 +1,0 @@
-<div class="edd_download_image">
-	<a href="./<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function the_permalink() in /Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/themes/oceanwp/partials/edd/shortcode-content-image.php:2_Stack trace:_#0 {main}_  thrown in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/themes/oceanwp/partials/edd/shortcode-content-image.php</b> on line <b>2</b><br />"></a>
-</div>

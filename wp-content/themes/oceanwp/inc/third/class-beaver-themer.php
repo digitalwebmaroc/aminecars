@@ -1,2 +1,0 @@
-<br>
-<b>Warning</b>:  Use of undefined constant OCEANWP_BEAVER_BUILDER_ACTIVE - assumed 'OCEANWP_BEAVER_BUILDER_ACTIVE' (this will throw an Error in a future version of PHP) in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/themes/oceanwp/inc/third/class-beaver-themer.php</b> on line <b>9</b><br>

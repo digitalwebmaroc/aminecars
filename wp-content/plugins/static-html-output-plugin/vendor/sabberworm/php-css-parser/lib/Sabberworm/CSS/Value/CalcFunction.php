@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'Sabberworm\CSS\Value\CSSFunction' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/sabberworm/php-css-parser/lib/Sabberworm/CSS/Value/CalcFunction.php</b> on line <b>8</b><br>

@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'ActionScheduler_Abstract_RecurringSchedule' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php</b> on line <b>6</b><br>

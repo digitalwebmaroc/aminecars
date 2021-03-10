@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'WPForms\Tasks\Task' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/wpforms-lite/src/Emails/FetchInfoBlocksTask.php</b> on line <b>12</b><br>

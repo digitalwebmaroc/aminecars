@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'GuzzleHttp\Exception\BadResponseException' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php</b> on line <b>7</b><br>

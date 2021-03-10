@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/guzzle/src/Pool.php</b> on line <b>20</b><br>

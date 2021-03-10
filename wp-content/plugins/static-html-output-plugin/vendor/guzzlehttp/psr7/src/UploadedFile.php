@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Interface 'Psr\Http\Message\UploadedFileInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/psr7/src/UploadedFile.php</b> on line <b>9</b><br>

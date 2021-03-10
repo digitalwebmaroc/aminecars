@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'Symfony\Polyfill\Intl\Normalizer\Normalizer' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/simply-static/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php</b> on line <b>3</b><br>

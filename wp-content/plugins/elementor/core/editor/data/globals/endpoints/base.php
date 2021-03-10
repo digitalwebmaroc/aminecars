@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'Elementor\Data\Base\Endpoint' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/elementor/core/editor/data/globals/endpoints/base.php</b> on line <b>8</b><br>

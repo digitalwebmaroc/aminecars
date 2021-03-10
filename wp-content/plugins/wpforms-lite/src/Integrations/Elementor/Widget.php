@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'Elementor\Widget_Base' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/wpforms-lite/src/Integrations/Elementor/Widget.php</b> on line <b>14</b><br>

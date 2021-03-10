@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'ET_Builder_Module' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/wpforms-lite/src/Integrations/Divi/WPFormsSelector.php</b> on line <b>12</b><br>

@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'ButterBean_Setting' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/ocean-extra/includes/metabox/butterbean/inc/settings/class-setting-datetime.php</b> on line <b>20</b><br>

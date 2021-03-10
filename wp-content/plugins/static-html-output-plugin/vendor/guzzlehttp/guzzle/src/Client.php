@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Interface 'GuzzleHttp\ClientInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/guzzle/src/Client.php</b> on line <b>26</b><br>

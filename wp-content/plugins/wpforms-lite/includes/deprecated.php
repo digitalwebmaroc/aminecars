@@ -1,2 +1,0 @@
-<br>
-<b>Warning</b>:  Class 'WPForms\Helpers\PluginSilentUpgraderSkin' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/wpforms-lite/includes/deprecated.php</b> on line <b>12</b><br>

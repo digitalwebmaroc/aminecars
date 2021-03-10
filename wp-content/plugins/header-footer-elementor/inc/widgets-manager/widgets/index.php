@@ -1,2 +1,0 @@
-<br>
-<b>Warning</b>:  Unterminated comment starting line 2 in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/index.php</b> on line <b>2</b><br>

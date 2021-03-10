@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Interface 'Sabberworm\CSS\Renderable' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/sabberworm/php-css-parser/lib/Sabberworm/CSS/Property/AtRule.php</b> on line <b>8</b><br>

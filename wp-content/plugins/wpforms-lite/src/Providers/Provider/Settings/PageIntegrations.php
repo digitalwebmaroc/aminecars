@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Interface 'WPForms\Providers\Provider\Settings\PageIntegrationsInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/wpforms-lite/src/Providers/Provider/Settings/PageIntegrations.php</b> on line <b>12</b><br>

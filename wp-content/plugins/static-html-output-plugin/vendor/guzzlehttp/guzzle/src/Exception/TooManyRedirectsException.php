@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'GuzzleHttp\Exception\RequestException' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php</b> on line <b>4</b><br>

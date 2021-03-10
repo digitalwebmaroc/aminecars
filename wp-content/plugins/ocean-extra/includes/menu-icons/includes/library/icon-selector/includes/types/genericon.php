@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'OE_Icon_Picker_Type_Font' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/includes/types/genericon.php</b> on line <b>6</b><br>

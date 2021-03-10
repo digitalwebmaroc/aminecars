@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Class 'ParagonIE_Sodium_Core32_Util' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/wpforms-lite/libs/sodium_compat/src/Core32/SipHash.php</b> on line <b>12</b><br>
