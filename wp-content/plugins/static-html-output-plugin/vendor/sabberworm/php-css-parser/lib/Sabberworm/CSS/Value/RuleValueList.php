@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'Sabberworm\CSS\Value\ValueList' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/sabberworm/php-css-parser/lib/Sabberworm/CSS/Value/RuleValueList.php</b> on line <b>5</b><br>

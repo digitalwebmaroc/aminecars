@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'Walker_Nav_Menu_Edit' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/themes/oceanwp/inc/walker/class-walker-edit-custom.php</b> on line <b>13</b><br>

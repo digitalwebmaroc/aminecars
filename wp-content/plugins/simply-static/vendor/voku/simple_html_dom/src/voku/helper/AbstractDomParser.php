@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Interface 'voku\helper\DomParserInterface' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/AbstractDomParser.php</b> on line <b>7</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'PHPUnit_Framework_TestCase' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/static-html-output-plugin/vendor/pear/net_url2/tests/Net/URL2Test.php</b> on line <b>24</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'Simply_Static\Task' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/simply-static/src/tasks/class-ss-setup-task.php</b> on line <b>7</b><br>

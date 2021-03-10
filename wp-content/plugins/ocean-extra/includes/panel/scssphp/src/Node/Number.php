@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'Leafo\ScssPhp\Node' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/ocean-extra/includes/panel/scssphp/src/Node/Number.php</b> on line <b>29</b><br>

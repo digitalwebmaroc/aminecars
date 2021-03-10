@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'Elementor\Data\Base\Controller' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/elementor/core/editor/data/globals/controller.php</b> on line <b>7</b><br>

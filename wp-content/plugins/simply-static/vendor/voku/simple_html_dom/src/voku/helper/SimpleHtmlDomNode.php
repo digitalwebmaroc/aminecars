@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'voku\helper\AbstractSimpleHtmlDomNode' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNode.php</b> on line <b>10</b><br>

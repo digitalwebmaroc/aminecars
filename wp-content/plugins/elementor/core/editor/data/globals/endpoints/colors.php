@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Class 'Elementor\Core\Editor\Data\Globals\Endpoints\Base' not found in <b>/Applications/XAMPP/xamppfiles/htdocs/auto1/wp-content/plugins/elementor/core/editor/data/globals/endpoints/colors.php</b> on line <b>6</b><br>
